@@ -36,3 +36,7 @@ A simulator running in the host for quick testing
 ## Version 0.5
 
 - Added Time Series Insights
+
+## Version 0.6
+
+- Remove region limitation (IoT Plug and Play is GA now)
